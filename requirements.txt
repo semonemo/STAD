@@ -1,0 +1,8 @@
+torch==1.6.0
+torchvision==0.7.0
+numpy==1.19.1
+matplotlib==3.3.1
+scipy==1.5.2
+pykitti==0.3.1
+opencv-python==4.4.0.42
+wandb
