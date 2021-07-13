@@ -59,7 +59,7 @@ sh local_test.sh
 You need to change `dataset_path` and `model_path` correctly.
 
 ## Contact
-If you have any questions, please contact the author [Hyunmin Lee&lt;hyunmin057@postech.ac.kr>](mailto:hyunmin057@postech.ac.kr).
+If you have any questions, please contact the author [Hyunmin Lee&lt;hyunmin057@gmail.com>](mailto:hyunmin057@gmail.com).
 
 ## Acknowledgement
 Portions of the source code (e.g., training pipeline, argument parser, and logger) are from NVIDIA, [Neural-RGBD](https://github.com/NVlabs/neuralrgbd)
