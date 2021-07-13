@@ -1,8 +1,7 @@
 # STAD: Stable Video Depth Estimation (ICIP 2021)
 
 
-<image src="docs/stad_arch.pdf"/>
-
+<embed src="docs/stad_arch.pdf" type="application/pdf">
 
 ## Getting Started 
 This code has been developed under Anaconda(Python 3.6), Pytorch 1.6.0, Torchvision 0.7.0 and CUDA 10.1. 
