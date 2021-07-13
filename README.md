@@ -43,8 +43,8 @@ set parameters as follows:
 | :------------: | :---: | :---: |
 | [Neural-RGBD](https://github.com/NVlabs/neuralrgbd) | ver0-nrgbd | NLL |
 | Neural-RGBD with scale-invariant loss | ver0-nrgbd_silog | silog |
-| STAD-frame (Ours) | ver1-per_frame | silog |
-| STAD (Ours) | ver4-aggr | silog |
+| STAD-frame (Ours) | ver1-per_frame_silog | silog |
+| STAD (Ours) | ver4-aggr_silog | silog |
 
 ![Alt text](docs/stad_tab1.png)
 
