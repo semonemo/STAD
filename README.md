@@ -35,10 +35,10 @@ In the code folder, run
 ```
 sh local_train_kitti.sh
 ``` 
-You need to change the dataset path KITTI. See [this](./docs/TR.md) page for more details.
+
 You need to change `dataset_path`, `exp_name` and `loss_type` correctly.
 
-set parameters as follows:
+Please set parameters as follows:
 
 | Models         | exp_name| loss_type|
 | :------------: | :---: | :---: |
